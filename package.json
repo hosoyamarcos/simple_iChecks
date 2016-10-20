@@ -1,0 +1,25 @@
+{
+  "name": "simple_ichecks",
+  "version": "1.0.0",
+  "description": "learning how to use ichecks",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosoyamarcos/simple_iChecks.git"
+  },
+  "author": "Marcod Hosoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hosoyamarcos/simple_iChecks/issues"
+  },
+  "homepage": "https://github.com/hosoyamarcos/simple_iChecks#readme",
+  "dependencies": {
+    "icheck": "^1.0.2",
+    "install": "^0.8.1",
+    "jquery": "^3.1.1",
+    "npm": "^3.10.8"
+  }
+}
